@@ -9,14 +9,14 @@ Script supports auto install agent or panel for any os supported
 |--------|---------|---|
 | Ubuntu | 20.04   | ✅ |
 |        | 18.04   | ✅ |
-|  	     | 16.04   | ✅ |
+|        | 16.04   | ✅ |
 |        | 20.04   | ✅ |
 | Debian | 10      | ✅ |
 |        | 9       | ✅ |
-| 	     | 8       | ✅ |
+|        | 8       | ✅ |
 | CentOS | 8       | ✅ |
 |        | 7       | ✅ |
-| 	     | 6       | ✅ |
+| 	 | 6       | ✅ |
 
 ### Panel Installation
 
